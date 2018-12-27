@@ -1,0 +1,56 @@
+body {
+
+}
+
+h1 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 50px
+}
+
+h2 {
+  text-align: center;
+  font-style: italic;
+}
+
+p {
+  text-align: center;
+}
+
+.name {
+  font-weight: bold;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+li {
+  display: inline-block;
+}
+
+ul {
+  text-align: center;
+  font-weight: bold; 
+}
+
+.first {
+  background-color: #ffff80;
+  padding: 0 30px
+}
+
+.second {
+  background-color: #ff9933;
+  padding: 0 30px
+}
+
+.first:hover {
+  background-color: #ff9933;
+}
+
+.second:hover {
+  background-color: #ffff80;
+}
